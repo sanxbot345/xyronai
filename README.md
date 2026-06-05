@@ -18,8 +18,8 @@ AI Assistant Powered by Google Gemini
 - 📱 Responsive Design
 
 <p align="center">
-  <img src="https://i.imgur.com/4g1lB3G.jpeg" width="800">
-</p>---
+  <img src="https://i.imgur.com/4g1lB3G.jpeg" alt="Xyron Banner" width="100%">
+</p>
 
 🔗 Links
 
